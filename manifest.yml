@@ -1,0 +1,6 @@
+---
+applications:
+  - name: node-app-metric-test
+    buildpacks:
+      - nodejs_buildpack
+    path: .
